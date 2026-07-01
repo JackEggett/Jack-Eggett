@@ -5,7 +5,7 @@
 
 - 🖥️ I operate a Proxmox-based homelab hosting multiple isolated environments, including an EVE-NG multi-vendor networking lab (Cisco, Fortinet, Palo Alto, Juniper), a Windows Active Directory domain lab, and separate network monitoring and security platforms such as Wazuh SIEM and LibreNMS.
 - 📚 I’m currently developing my skills in networking (CCNP) and red team practices
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/jack-eggett-3a50731ba) | Jack.Eggett@proton.me
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/jack-eggett-3a50731ba) | jackeggett@outlook.com
 - 🛡️ My HackTheBox profile: [Hackthebox](https://profile.hackthebox.com/profile/019efe42-9e73-71d1-8f20-f7829eeff603)
 - ⚡ Fun fact: ☕ My uptime is directly tied to coffee availability.
 
