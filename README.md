@@ -13,7 +13,7 @@
 
 ### 🔗 Featured Repositories (In Progress)
 
-- 💣 [SIEM-Monitoring-lab](https://github.com/JackEggett/SIEM-Monitoring-Lab) — Setting up security and network monitoring such as Wazuh, ELK, Sysmon and librenms in a Proxmox environment *(currently documenting lab setup)*
+- 💣 [SIEM-Monitoring-labs](https://github.com/JackEggett/SIEM-Monitoring-Lab) — Setting up security and network monitoring such as Wazuh, ELK, Sysmon and librenms in a Proxmox environment *(currently documenting lab setup)*
 - 📡 [Network-Labs](https://github.com/JackEggett/Network-Labs) — Eve-NG labs with configs and diagrams *(labs and notes coming soon)*
 - 🧠 [CTF-Writeups](https://github.com/JackEggett/CTF-Writeups) — TryHackMe and HackTheBox walkthroughs *(writeups in progress, non-spoiler)*
 
